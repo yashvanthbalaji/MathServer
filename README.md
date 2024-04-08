@@ -130,10 +130,12 @@ def squarearea(request):
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot (6).png>)
+![Screenshot 2024-04-08 193027](https://github.com/yashvanthbalaji/MathServer/assets/145736316/29a76ac0-25a2-4d7f-b563-daded89ac356)
+
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2024-04-03 223140.png>)
+![Screenshot 2024-04-08 193202](https://github.com/yashvanthbalaji/MathServer/assets/145736316/40aaf802-4e0b-49f3-b532-08a0eff4e8e7)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
