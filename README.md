@@ -73,7 +73,7 @@ h1 {
 <div class="edge">
     <div class="box">
         <h1>surfacearea of right cylinder</h1>
-        <h3>S.L.Narasimha Reddy(212223040214)</h3>
+        <h3>BALAJI A</h3>
         <form method="POST">
             {% csrf_token %}
             <div class="formelt">
@@ -134,7 +134,8 @@ def squarearea(request):
 
 
 ## HOMEPAGE:
-![Screenshot 2024-04-08 193202](https://github.com/yashvanthbalaji/MathServer/assets/145736316/40aaf802-4e0b-49f3-b532-08a0eff4e8e7)
+![Screenshot 2024-04-20 133944](https://github.com/Vinothini1711/Echoserver/assets/144300204/8ef36f17-84e3-4c5f-bceb-03ef2798adeb)
+
 
 
 ## RESULT:
